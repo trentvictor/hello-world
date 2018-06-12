@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+My First Repository <br>
+Trent Victor, UX Product Designer
